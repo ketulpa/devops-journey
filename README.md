@@ -1,3 +1,1 @@
-#My Devops Journey
-##What am I learning
-- Git & Github
+I am Linux Sysadmin
